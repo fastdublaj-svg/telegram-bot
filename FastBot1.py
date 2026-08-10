@@ -116,10 +116,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-un(main())
-ot)
-
-if __name__ == "__main__":
-    asyncio.run(main())
- __name__ == "__main__":
-    asyncio.run(main())
